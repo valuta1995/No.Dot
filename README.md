@@ -22,3 +22,10 @@ stow -S <dir>
 - tmux
 
 ## GLHF
+
+## Requirements
+- At least 0.1 sanity.
+- stow (obviously)
+- vim (as well as python-vim for all python versions you wish)
+- gawk (for pretty stuff)
+- 
