@@ -24,8 +24,7 @@ stow -S <dir>
 ## GLHF
 
 ## Requirements
-- At least 0.1 sanity.
-- stow (obviously)
-- vim (as well as python-vim for all python versions you wish)
+- stow (for stowing the dot files)
+- vim and python-vim (pip) (for vim and .vimstuff)
 - gawk (for pretty stuff)
 - 
