@@ -31,7 +31,7 @@ zplug "junegunn/fzf-bin", as:command, from:gh-r, rename-to:fzf
 # ripgrep -- faster grep, more features
 zplug "BurntSushi/ripgrep", as:command, from:gh-r, rename-to:rg
 # xzv -- CSV stream editor
-zplug "BurntSushi/xsv", as:command, from:gh-r, rename-to:xsv
+# zplug "BurntSushi/xsv", as:command, from:gh-r, rename-to:xsv
 # peco -- also fuzzy searching
 zplug "peco/peco", as:command, from:gh-r
 # fzy -- even more fuzzy searching
