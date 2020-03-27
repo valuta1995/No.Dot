@@ -23,8 +23,10 @@ stow -S <dir>
 
 ## GLHF
 
+## Hints
+Try `sudo add-apt-repository ppa:neovim-ppa/stable` as old neovim from ubuntu is a bit old.
+
 ## Requirements
 - stow (for stowing the dot files)
 - vim and python-vim (pip) (for vim and .vimstuff)
 - gawk (for pretty stuff)
-- 
