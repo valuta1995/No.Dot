@@ -24,7 +24,7 @@ stow -S <dir>
 ## GLHF
 
 ## Hints
-Try `sudo add-apt-repository ppa:neovim-ppa/stable` as old neovim from ubuntu is a bit old.
+On ubuntu 18.04 and lower, try `sudo add-apt-repository ppa:neovim-ppa/stable` as it only has old neovim.
 
 ## Requirements
 - stow (for stowing the dot files)
